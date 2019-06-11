@@ -393,7 +393,7 @@ http://113.189.250.156:8889/rtp/232.84.2.53:10528
 http://113.189.250.156:8889/rtp/232.84.1.47:8262
 #EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/disney%20channel.png",DISNEY CHANNEL
 http://113.189.250.156:8889/rtp/232.84.1.18:8082
-#EXTINF:-1,DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/disney%20channel%20hd.png",DISNEY CHANNEL HD
 http://113.189.250.156:8889/rtp/232.84.2.143:10678
 #EXTINF:-1,DISNEY JUNIOR
 http://113.189.250.156:8889/rtp/232.84.1.90:10398
