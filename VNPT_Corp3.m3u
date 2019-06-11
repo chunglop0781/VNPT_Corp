@@ -343,7 +343,7 @@ http://14.231.226.189:6868/rtp/232.84.2.145:10690
 http://14.231.226.189:6868/rtp/232.84.2.131:9582
 #EXTINF:-1,Discovery Channel (HD 7Mbps)
 http://14.231.226.189:6868/rtp/232.84.2.53:10528
-#EXTINF:-1,Disney Channel (HD 7Mbps)
+#EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/disney%20channel%20hd.png",Disney Channel (HD 7Mbps)
 http://14.231.226.189:6868/rtp/232.84.2.143:10678
 #EXTINF:-1,DIVA (HD 6.5Mbps)
 http://14.231.226.189:6868/rtp/232.84.2.130:9576
