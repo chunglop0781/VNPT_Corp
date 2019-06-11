@@ -447,9 +447,9 @@ http://113.189.250.156:8889/rtp/232.84.2.139:10654
 http://113.189.250.156:8889/rtp/232.84.1.65:8364
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://113.189.250.156:8889/rtp/232.84.1.1:7980
-#EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/nat%20geo%20people%20hd.png",NAT GEO PEOPLE
+#EXTINF:-1,NAT GEO PEOPLE
 http://113.189.250.156:8889/rtp/232.84.1.67:8376
-#EXTINF:-1,NAT GEO PEOPLE HD
+#EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/nat%20geo%20people%20hd.png",NAT GEO PEOPLE HD
 http://113.189.250.156:8889/rtp/232.84.1.76:8430
 #EXTINF:-1,NAT GEO WILD HD
 http://113.189.250.156:8889/rtp/232.84.1.80:8454
