@@ -349,7 +349,7 @@ http://14.231.226.189:6868/rtp/232.84.2.143:10678
 http://14.231.226.189:6868/rtp/232.84.2.130:9576
 #EXTINF:-1,DW (English) (HD 6.5Mbps)
 http://14.231.226.189:6868/rtp/232.84.2.233:10416
-#EXTINF:-1,Fashion TV (HD 7Mbps)
+#EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/fashion%20hd.png",Fashion TV (HD 7Mbps)
 http://14.231.226.189:6868/rtp/232.84.2.52:10522
 #EXTINF:-1,FOX HD (HD 7Mbps)
 http://14.231.226.189:6868/rtp/232.84.2.120:8448
