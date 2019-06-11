@@ -511,7 +511,7 @@ http://113.189.250.156:8889/rtp/232.84.1.125:10326
 http://113.189.250.156:8889/rtp/232.84.1.86:8490
 #EXTINF:-1,CNN
 http://113.189.250.156:8889/rtp/232.84.2.126:8076
-#EXTINF:-1,Da Vinci Learning
+#EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/da%20vinci.png",Da Vinci Learning
 http://113.189.250.156:8889/rtp/232.84.1.108:10224
 #EXTINF:-1,Nat Geo People
 http://113.189.250.156:8889/rtp/232.84.2.121:8376
