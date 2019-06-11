@@ -373,7 +373,7 @@ http://14.231.226.189:6868/rtp/232.84.1.76:8430
 http://14.231.226.189:6868/rtp/232.84.2.123:8454
 #EXTINF:-1,NHK WORLD JAPAN (HD 7.5Mbps)
 http://14.231.226.189:6868/rtp/232.84.1.72:8406
-#EXTINF:-1,Outdoor Channel (HD 7Mbps)
+#EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/outdoor%20hd.png",Outdoor Channel (HD 7Mbps)
 http://14.231.226.189:6868/rtp/232.84.1.107:10218
 #EXTINF:-1,RED BY HBO (HD 7Mbps)
 http://14.231.226.189:6868/rtp/232.84.2.172:10840
