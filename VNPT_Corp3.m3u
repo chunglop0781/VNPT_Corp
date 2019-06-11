@@ -367,7 +367,7 @@ http://14.231.226.189:6868/rtp/232.84.2.138:10648
 http://14.231.226.189:6868/rtp/232.84.2.139:10654
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD (HD 6.5Mbps)
 http://14.231.226.189:6868/rtp/232.84.1.1:7980
-#EXTINF:-1,NAT GEO people (HD 7.5Mbps)
+#EXTINF:-1 http://iptvremote.ru/channels/android/320/nat%20geo%20people%20hd.png",NAT GEO people (HD 7.5Mbps)
 http://14.231.226.189:6868/rtp/232.84.1.76:8430
 #EXTINF:-1,NAT GEO WILD (HD 7.5Mbps)
 http://14.231.226.189:6868/rtp/232.84.2.123:8454
