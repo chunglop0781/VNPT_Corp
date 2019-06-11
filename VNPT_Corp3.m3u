@@ -413,7 +413,7 @@ http://14.231.226.189:6868/rtp/232.84.2.126:8076
 http://14.231.226.189:6868/rtp/232.84.1.108:10224
 #EXTINF:-1,Discovery Channel
 http://14.231.226.189:6868/rtp/232.84.1.47:8262
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 tvg-logo="http://iptvremote.ru/channels/android/320/disney%20channel.png",Disney Channel
 http://14.231.226.189:6868/rtp/232.84.1.18:8082
 #EXTINF:-1,Disney Junior
 http://14.231.226.189:6868/rtp/232.84.1.90:10398
