@@ -1,12 +1,13 @@
 {
     "name": "MyTV",
     "author": "chunglop0781@gmail.com",
+    "image": "https://mytv.com.vn/images/logo-white.png",
     "url": "https://raw.githubusercontent.com/chunglop0781/VNPT_Corp/master/VNPT_Corp.w3u",
    "groups": [
                   { 
 
-                 "name": "TRUYỀN HÌNH MỸ",
-                "image": "https://s22.postimg.org/aeby2b05d/hoaky.jpg",
+                 "name": "VNPT_Corp",
+                "image": "https://mytv.com.vn/images/logo-white.png",
                
                 "stations": [
  				  {
@@ -45,8 +46,8 @@
     },
      
     {
-     "name": "TRUYỀN HÌNH ANH",
-     "image": "https://s29.postimg.org/owa0v5z53/anh.png",
+     "name": "VNPT_Corp 2",
+     "image": "https://mytv.com.vn/images/logo-white.png",
               
      "stations": [
         	  {
@@ -138,8 +139,8 @@
      
     {
 
-     "name": "TRUYỀN HÌNH PHÁP",
-     "image": "https://s11.postimg.org/itp7bsxg3/phap.png",
+     "name": "VNPT_Corp 3",
+     "image": "https://mytv.com.vn/images/logo-white.png",
               
      "stations": [
         	  {
@@ -385,8 +386,8 @@
     },
      
     {
-     "name": "TRUYỀN HÌNH TÂY BAN NHA",
-     "image": "https://s16.postimg.org/3wd6y01th/tbn.png",
+     "name": "VNPT_Corp 4",
+     "image": "https://mytv.com.vn/images/logo-white.png",
               
      "stations": [
         	  {
