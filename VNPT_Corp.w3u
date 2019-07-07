@@ -14,9 +14,9 @@
 "name": " VTV1","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/300px-VTV1_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.27:8136"},{
 "name": " VTV1 HD","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_VTV1_HD.png/799px-Logo_VTV1_HD.png","url": "http://14.186.115.10:8889/rtp/232.84.1.117:10254"},{
 "name": " VTV2","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/300px-VTV2_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.39:8208"},{
-"name": " BEINSPORTS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3888.ts"},{
+"name": " VTV2 HD","image": "https://vignette.wikia.nocookie.net/logos/images/0/00/VTV2_HD_logo.png/revision/latest/scale-to-width-down/220?cb=20180719105726&path-prefix=vi","url": "http://14.186.115.10:8889/rtp/232.84.2.31:10594"},{
 "name": " BRAVO","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3887.ts"},{
-"name": " CBS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3889.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": " CBS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3889.ts"},{
 "name": " CNN","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3890.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " DISCOVERY USA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3896.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " ESPN","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3897.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
