@@ -11,9 +11,9 @@
                
                 "stations": [
  				  {
-"name": " 5 USA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3878.ts"},{
+"name": " VTV1","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/300px-VTV1_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.27:8136"},{
 "name": " ABC NEWS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3880.ts"},{
-"name": " AMC HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3882.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": " AMC HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3882.ts"},{
 "name": " BEINSPORTS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3888.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " BRAVO","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3887.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " CBS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3889.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
