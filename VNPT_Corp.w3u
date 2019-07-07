@@ -18,13 +18,13 @@
 "name": " VTV3","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/375px-VTV3_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.28:8142"},{
 "name": " VTV3 HD","image": "https://upload.wikimedia.org/wikipedia/vi/f/fc/VTV3HD.png","url": "http://14.186.115.10:8889/rtp/232.84.1.118:10260"},{
 "name": " VTV4","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/285px-VTV4_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.40:8214"},{
-"name": " VTV4 HD","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/285px-VTV4_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.2.32:10600"},{
-"name": " ESPN","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3897.ts"},{
+"name": " VTV4 HD","image": "https://vignette.wikia.nocookie.net/logos/images/2/21/VTV4_HD.png/revision/latest/scale-to-width-down/220?cb=20181031030722&path-prefix=vi","url": "http://14.186.115.10:8889/rtp/232.84.2.32:10600"},{
+"name": " VTV5","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/270px-VTV5_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.41:8220"},{
 "name": " FOX SPORT 1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3898.ts"},{
-"name": " FOX SPORT 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3899.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " HBO FAMILY","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3901.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " HBO ZONE","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3900.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " HGTV HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3902.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": " FOX SPORT 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3899.ts",},{
+"name": " HBO FAMILY","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3901.ts"},{
+"name": " HBO ZONE","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3900.ts"},{
+"name": " HGTV HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3902.ts"},{
 "name": " NBA TV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3903.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " NBC","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3904.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " NFL NETWORK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3905.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
