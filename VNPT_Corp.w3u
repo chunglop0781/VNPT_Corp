@@ -21,12 +21,12 @@
 "name": " VTV4 HD","image": "https://vignette.wikia.nocookie.net/logos/images/2/21/VTV4_HD.png/revision/latest/scale-to-width-down/220?cb=20181031030722&path-prefix=vi","url": "http://14.186.115.10:8889/rtp/232.84.2.32:10600"},{
 "name": " VTV5","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/270px-VTV5_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.41:8220"},{
 "name": " VTV5 HD","image": "https://vignette.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest/scale-to-width-down/185?cb=20180723021944&path-prefix=vi","url": "http://14.186.115.10:8889/rtp/232.84.2.33:10606"},{
-"name": " FOX SPORT 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3899.ts",},{
+"name": " VTV6","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/375px-VTV6_logo_2013_final.svg.png","url": "http://14.170.7.205:4022/rtp/232.84.1.42:8226",},{
 "name": " HBO FAMILY","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3901.ts"},{
 "name": " HBO ZONE","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3900.ts"},{
 "name": " HGTV HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3902.ts"},{
-"name": " NBA TV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3903.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " NBC","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3904.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
+"name": " NBA TV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3903.ts"},{
+"name": " NBC","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3904.ts"},{
 "name": " NFL NETWORK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3905.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " OWN TV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3907.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
 "name": " PBS HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3908.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
