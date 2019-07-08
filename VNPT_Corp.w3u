@@ -34,12 +34,12 @@
 "name": " TBS","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3912.ts"},{
 "name": " TNT HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3913.ts"},{
 "name": " TSN 1","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3914.ts"},{
-"name": " TSN 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3915.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " TSN 3","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3916.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " TSN 4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3917.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " TSN 5","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3918.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " WILLOW HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3921.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
-"name": " WWE NETWORK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3923.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git" 
+"name": " TSN 2","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3915.ts"},{
+"name": " TSN 3","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3916.ts"},{
+"name": " TSN 4","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3917.ts"},{
+"name": " TSN 5","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3918.ts"},{
+"name": " WILLOW HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3921.ts"},{
+"name": " WWE NETWORK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3923.ts" 
    }
                 
     ]
