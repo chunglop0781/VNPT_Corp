@@ -23,8 +23,8 @@
 "name": " VTV5 HD","image": "https://vignette.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest/scale-to-width-down/185?cb=20180723021944&path-prefix=vi","url": "http://14.186.115.10:8889/rtp/232.84.2.33:10606"},{
 "name": " VTV6","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/375px-VTV6_logo_2013_final.svg.png","url": "http://14.170.7.205:4022/rtp/232.84.1.42:8226",},{
 "name": " VTV6 HD","image": "http://img.hplus.com.vn/460x260/poster/2018/09/11/101550-vtv6.png","url": "http://14.170.7.205:4022/rtp/232.84.1.119:10266"},{
-"name": " VTV8","image": "http://img.hplus.com.vn/460x260/poster/2018/09/11/101550-vtv6.png","url": "http://14.170.7.205:4022/rtp/232.84.1.148:8862"},{
-"name": " HGTV HD","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3902.ts"},{
+"name": " VTV8","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/375px-VTV8_logo_2016_final.svg.png","url": "http://14.170.7.205:4022/rtp/232.84.1.148:8862"},{
+"name": " VTV8 HD","image": "http://tivis.101vn.com/images/vtv8.png","url": "http://14.170.7.205:4022/rtp/232.84.2.34:10612"},{
 "name": " NBA TV","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3903.ts"},{
 "name": " NBC","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3904.ts"},{
 "name": " NFL NETWORK","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3905.ts"},{
