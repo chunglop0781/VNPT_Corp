@@ -17,6 +17,14 @@
 "name": " VTV2 HD","image": "https://vignette.wikia.nocookie.net/logos/images/0/00/VTV2_HD_logo.png/revision/latest/scale-to-width-down/220?cb=20180719105726&path-prefix=vi","url": "http://14.186.115.10:8889/rtp/232.84.2.31:10594"},{
 "name": " VTV3","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/375px-VTV3_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.28:8142"},{
 "name": " VTV3 HD","image": "https://upload.wikimedia.org/wikipedia/vi/f/fc/VTV3HD.png","url": "http://14.186.115.10:8889/rtp/232.84.1.118:10260"},{
+"name": " VTV4","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/285px-VTV4_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.40:8214"},{
+"name": " VTV4 HD","image": "https://vignette.wikia.nocookie.net/logos/images/2/21/VTV4_HD.png/revision/latest/scale-to-width-down/220?cb=20181031030722&path-prefix=vi","url": "http://14.186.115.10:8889/rtp/232.84.2.32:10600"},{
+"name": " VTV5","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/270px-VTV5_logo_2013_final.svg.png","url": "http://14.186.115.10:8889/rtp/232.84.1.41:8220"},{
+"name": " VTV5 HD","image": "https://vignette.wikia.nocookie.net/logos/images/9/92/VTV5_HD_logo.png/revision/latest/scale-to-width-down/185?cb=20180723021944&path-prefix=vi","url": "http://14.186.115.10:8889/rtp/232.84.2.33:10606"},{
+"name": " VTV6","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/375px-VTV6_logo_2013_final.svg.png","url": "http://14.170.7.205:4022/rtp/232.84.1.42:8226",},{
+"name": " VTV6 HD","image": "http://img.hplus.com.vn/460x260/poster/2018/09/11/101550-vtv6.png","url": "http://14.170.7.205:4022/rtp/232.84.1.119:10266"},{
+"name": " VTV8","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/375px-VTV8_logo_2016_final.svg.png","url": "http://14.170.7.205:4022/rtp/232.84.1.148:8862"},{
+"name": " VTV8 HD","image": "http://tivis.101vn.com/images/vtv8.png","url": "http://14.170.7.205:4022/rtp/232.84.2.34:10612"},{
 "name": " CNN","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3890.ts"},{
 "name": " DISCOVERY USA","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3896.ts"},{
 "name": " ESPN","url": "http://srv.alphatv-service.com:8080/live/redhedi002/b7E0WhFFf2/3897.ts","userAgent": "VLC/3.0.0-git LibVLC/3.0.0-git"},{
